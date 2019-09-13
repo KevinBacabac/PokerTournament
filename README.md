@@ -4,11 +4,13 @@ Our goal is to make bots that compete in poker games using Python and game theor
 ## Learning Objectives
 
 - Develop an understanding of intermediate Python. This includes variable scoping, classes, and various keywords (break, return, for-else, etc).
+
 - Become comfortable using standard and non-standard libraries to produce a useful program.
 
 ## Tools and Technologies
 
 [Python 3.7](https://www.python.org/downloads/) as the language of choice.
+
 [Kivy](https://kivy.org/#download) to visualize the games. (It's entirely optional)
 
 
